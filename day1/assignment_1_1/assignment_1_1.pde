@@ -1,2 +1,2 @@
 //Hello world!
-//Hello from collaborator
+//Hello from batch
